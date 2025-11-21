@@ -2,9 +2,10 @@
 
 A Jamf Pro Extension Attribute script that detects and classifies Jamf Connect Menu Bar (JCMB) and Jamf Connect Login Window (JCLW) components on macOS.
 
-[![ShellCheck](https://img.shields.io/badge/shellcheck-passing-brightgreen)](https://www.shellcheck.net/)
-[![Tests](https://img.shields.io/badge/tests-26%2F26%20passing-brightgreen)](#testing)
+[![Tests](https://img.shields.io/badge/tests-26%2F26%20passing-brightgreen)](TESTING.md)
+[![ShellCheck](https://img.shields.io/badge/shellcheck-passing-brightgreen)](JCSSP_EA.sh)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.9.0-blue)](https://github.com/Sunshine-was-here/JCSSP-EA/releases)
 
 ## Overview
 
