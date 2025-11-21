@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Test artifacts
+/tmp/
+*.log
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backups
+*.bak
+*.backup
